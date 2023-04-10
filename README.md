@@ -1,6 +1,6 @@
 ### Hi Buddy 👋 ###
-- 🔭 I’m currently working on Web3
-- 🌱 I’m currently learning English/Go
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning English
 - 👯 I’m looking to collaborate on Web3 Domain
 - 🤔 I’m looking for help with Remote work opportunities
 - 📫 How to reach me: WeChat 13644261370
